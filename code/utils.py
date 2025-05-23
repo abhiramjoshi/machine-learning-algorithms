@@ -1,5 +1,7 @@
 import logging
 
+PLOT_DIR = "plots"
+
 def setup_logger(name: str) -> logging.Logger:
     logger = logging.getLogger(name)
     logger.setLevel(logging.INFO)

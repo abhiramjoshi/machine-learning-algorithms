@@ -3,3 +3,6 @@ include
 lib
 lib64
 pyvenv.cfg
+share
+plots
+__pycache__
